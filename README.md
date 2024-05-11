@@ -1,4 +1,4 @@
-![logo](https://github.com/sripada1998/sripada1998/blob/main/git.jfif)
+![logo](https://github.com/sripada1998/sripada1998/blob/main/to%20my%20profile.gif)
 <h1 align="center">Hi 👋, I'm Sripada Swetapadma Swain</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/sripada1998/sripada1998/blob/main/git%20banner.gif">
